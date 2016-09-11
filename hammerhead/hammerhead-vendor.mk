@@ -65,7 +65,6 @@ PRODUCT_COPY_FILES += \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/lib/libchromatix_mt9m114b_default_video.so:system/lib/libchromatix_mt9m114b_default_video.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/lib/libchromatix_mt9m114b_preview.so:system/lib/libchromatix_mt9m114b_preview.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/lib/libchromatix_mt9m114b_snapshot.so:system/lib/libchromatix_mt9m114b_snapshot.so \
-    $(VENDOR_LGE_PATH)/hammerhead/proprietary/lib/libdrmdiag.so:system/lib/libdrmdiag.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/lib/libdrmtime.so:system/lib/libdrmtime.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
@@ -147,7 +146,6 @@ PRODUCT_COPY_FILES += \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libCommandSvc.so:system/vendor/lib/libCommandSvc.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
-    $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libDxHdcp.so:system/vendor/lib/libDxHdcp.so \
@@ -206,10 +204,10 @@ PRODUCT_COPY_FILES += \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libvss_nv_core.so:system/vendor/lib/libvss_nv_core.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libvss_nv_idl.so:system/vendor/lib/libvss_nv_idl.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libvss_nv_iface.so:system/vendor/lib/libvss_nv_iface.so \
-    $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
+    $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
-    $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
+    $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     $(VENDOR_LGE_PATH)/hammerhead/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
